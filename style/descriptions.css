@@ -1,0 +1,7 @@
+.summary_container {
+    margin: 10px 10px 30px;
+    background-color: rgb(223, 231, 213);
+    width: calc(100% - 10px);
+    border-radius: 7px;
+    overflow: hidden;
+}
